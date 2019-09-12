@@ -1,2 +1,2 @@
 # Java-Programming-Projects
-a collection of my Java projects, from multiple classes
+A collection of my Java projects, from multiple NC State courses.
